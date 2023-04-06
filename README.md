@@ -13,3 +13,13 @@ setup the project
 ```
 cookiecutter https://github.com/amirsalmanii/my-django-template.git
 ```
+
+install requirements
+```
+pip install -r requirements/local.txt
+```
+
+docker-compose
+```
+docker-compose -f ./docker-compose.dev.yml up -d
+```
