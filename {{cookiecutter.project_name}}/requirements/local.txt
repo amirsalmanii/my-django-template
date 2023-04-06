@@ -1,0 +1,11 @@
+-r base.txt
+
+boto3-stubs==1.24.71
+django-redis==5.2.0
+djangorestframework-stubs==1.7.0
+drf-spectacular==0.24.2
+factory-boy==3.2.1
+flake8==5.0.4
+ipdb==0.13.9
+pip-chill==1.0.1
+pytest-django==4.5.2
